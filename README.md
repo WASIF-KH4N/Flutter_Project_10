@@ -1,2 +1,2 @@
 # Flutter_Project_10
-Drawer
+In flutter, a Drawer is a sliding panel that appears from the side of the screen, typically used for navigation within an app. It is often represented by three horizontal lines (also known as a “hamburger” icon) in the upper corner of the app bar. To implement a drawer in Flutter, you use the Drawer widget in combination with a Scaffold. The Scaffold provides a consistent visual structure and supports various Material Design components, including the drawer. Inside the Drawer, you can use a ListView to add multiple items, such as DrawerHeader and ListTile, which can navigate to different sections of the app when tapped. This makes it easy to manage navigation in complex applications with multiple screens
