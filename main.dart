@@ -61,10 +61,10 @@ class _MyHomePage extends State<MyHomePage> {
                           //backgroundImage: NetworkImage('https://cdn.suwalls.com/wallpapers/comics/batman-44268-1920x1080.jpg'),
 
 
-                        //backgroundImage: AssetImage("assets/images/wasif.jpg"),
+                      
                     ),
 
-                              // ' https://avatars.githubusercontent.com/u/173621815?v=4'))
+                              
                         SizedBox(width: 10),
                         Column(
                             mainAxisAlignment: MainAxisAlignment.center,
