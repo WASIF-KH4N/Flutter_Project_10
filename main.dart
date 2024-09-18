@@ -58,14 +58,9 @@ class _MyHomePage extends State<MyHomePage> {
                             radius:30,
                           backgroundImage: NetworkImage("https://img.freepik.com/premium-photo/character-design_1258715-203843.jpg?"
                               "size=626&ext=jpg&ga=GA1.1.1501662735.1725561081&semt=ais_hybrid"),
-                          //backgroundImage: NetworkImage('https://cdn.suwalls.com/wallpapers/comics/batman-44268-1920x1080.jpg'),
+                          ),
 
-
-                      
-                    ),
-
-                              
-                        SizedBox(width: 10),
+                         SizedBox(width: 10),
                         Column(
                             mainAxisAlignment: MainAxisAlignment.center,
                             crossAxisAlignment: CrossAxisAlignment.start,
