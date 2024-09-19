@@ -127,7 +127,7 @@ class _MyHomePage extends State<MyHomePage> {
             RotateAnimatedText('DEVELOPER',textStyle:TextStyle(fontSize: 60,fontWeight: FontWeight.bold)),
 
           ],
-          totalRepeatCount: 10,
+          totalRepeatCount: 6,
           pause: Duration(milliseconds: 200) ,
           // displayFullTextOnTap: true,
           //stopPauseOnTap: true,
