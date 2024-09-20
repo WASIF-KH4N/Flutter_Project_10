@@ -121,10 +121,10 @@ class _MyHomePage extends State<MyHomePage> {
       children: [
         AnimatedTextKit(
           animatedTexts: [
-            RotateAnimatedText('I',textStyle: TextStyle(fontSize: 60,fontWeight: FontWeight.bold)),
-            RotateAnimatedText('AM',textStyle:TextStyle(fontSize: 60,fontWeight: FontWeight.bold)),
-            RotateAnimatedText('FLUTTER',textStyle:TextStyle(fontSize: 60,fontWeight: FontWeight.bold)),
-            RotateAnimatedText('DEVELOPER',textStyle:TextStyle(fontSize: 60,fontWeight: FontWeight.bold)),
+            RotateAnimatedText('Eat',textStyle: TextStyle(fontSize: 60,fontWeight: FontWeight.bold)),
+            RotateAnimatedText('Sleep',textStyle:TextStyle(fontSize: 60,fontWeight: FontWeight.bold)),
+            RotateAnimatedText('Code',textStyle:TextStyle(fontSize: 60,fontWeight: FontWeight.bold)),
+            RotateAnimatedText('Repeat',textStyle:TextStyle(fontSize: 60,fontWeight: FontWeight.bold)),
 
           ],
           totalRepeatCount: 6,
