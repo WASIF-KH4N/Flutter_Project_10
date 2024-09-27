@@ -60,14 +60,14 @@ class _MyHomePage extends State<MyHomePage> {
                               "size=626&ext=jpg&ga=GA1.1.1501662735.1725561081&semt=ais_hybrid"),
                           ),
 
-                         SizedBox(width: 10),
+                         SizedBox(width: 12),
                         Column(
                             mainAxisAlignment: MainAxisAlignment.center,
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
                                 'Wasif Khan',
-                                style: TextStyle(fontSize: 18),
+                                style: TextStyle(fontSize: 20),
                               ),
                               Text('Junior Flutter Developer'),
                               Text('m.wasif9905@gmail.com')
